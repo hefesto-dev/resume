@@ -26,6 +26,12 @@ During my academic period I've acquired experience in Research and Development m
 #### COMPUTER SCIENCE PROFESSOR, FEDERAL INSTITUTE OF EDUCATION, SCIENCE AND TECHNOLOGY OF CEARA
 2019 - Current Job
 
+##### I'm teaching
+1. Programming Logic
+2. Applied Informatic
+3. Computer Architecture
+4. Operational System Management 
+
 #### SENIOR SOFTWARE ENGINEER, TECHNICAL LEAD FOR FUNCEME (WWW.FUNCEME.BR),
 2014-2019
 
