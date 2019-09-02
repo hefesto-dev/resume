@@ -1,10 +1,9 @@
 # Sergio Vieira
 ## SENIOR SOFTWARE ENGINEER AND RESEARCHER (sergiosvieira@gmail.com)
 
-I always enjoyed the idea of making a computer do what I want. My first programming experience was when I had twelve years old with my old computer TK3000II. Since that, I never stopped to
-programming, and nowadays I still have fun learning new programming languages and improving my programming skills. 
+I always enjoyed the idea of making a computer do what I want. My first programming experience was when I was twelve years old with my old computer TK3000II. Since then, I never stopped programming, and nowadays I still have fun learning new programming languages and improving my programming skills. 
 
-During my academic period I've acquired experience in Research and Development mainly using a software called Network Simulator versions 2 and 3, and during my professional experience I've learned how to design a software architecture that is easy to maintain and how to work with a team. I love designing a solution and making it a reality.
+When I was at university I acquired experience in Research and Development, and when I started to work as software engineer I learned how to design a maintanable software and how to work in a team. I love coming up with a solution and making it a reality.
 
 ### Skill Set Summary
 #### SOFTWARE ENGINEERING
@@ -35,17 +34,13 @@ During my academic period I've acquired experience in Research and Development m
 #### SENIOR SOFTWARE ENGINEER, TECHNICAL LEAD FOR FUNCEME (WWW.FUNCEME.BR),
 2014-2019
 
-I brought to FUNCEME the culture of to working with version control software Git, and in this way,
-a several different projects could be easy managed. I work a lot with modern C++17 programming
-language using wxWidget in Windows Platform (Visual Studio). I was responsible for improving the
-user experience using hydrologic network simulator called SIGA (http://www.funceme.br/siga/),
-using computer graphics concepts. In this way, it was possible to load and simulate a huge
-hydrological system. I worked with GDAL (Geospatial Data Abstraction Library) library to improve a
-method used to calculate the rainfall average in a Basin (Thiessen Method). I worked a lot with
-CMake to create a multi-platform version of SIGA. I was responsible for creating a linear
-programming model (GLPK) to simulates a priority network flow. All of this changes improved the
-overall performance of SIGA and today, it is used by a main government institution of water
-allocation resources in Brazil (ANA), to help the decision-making process on water allocation.
+I brought to FUNCEME the culture of working with version control software (Git), so,
+a several different projects could be easily managed. I worked a lot with modern C++17 programming
+language using wxWidget in Windows Platform System (Visual Studio), QT5 in Mac OS X Platform System and 
+I was responsible for improving the user experience and performance of SIGA (Hydrologic Network Simulator System) (http://www.funceme.br/siga/). I worked with GDAL (Geospatial Data Abstraction Library) library to improve a
+method used to calculates the rainfall average in a Basin (Thiessen Method). I created cmake files to provides
+a multi-platform version of SIGA and I was the main responsible for creating a linear programming model using GLPK to simulates 
+a priority network flow. All of these changes improved the overall performance of SIGA and today, it is used to help the decision-making process on water allocation by a main government institution of water allocation resources in Brazil (ANA).
 
 **SKILLS: SOFTWARE AND SYSTEM ARCHITECTURE, GIT, SVN, C++, QT5, WXWIDGETS, CMAKE, LINUX,
 WINDOWS, MAC OSX, VISUAL STUDIO, GDAL, GLPK, TECHNICAL LEAD.**
@@ -59,7 +54,7 @@ WINDOWS, MAC OSX, VISUAL STUDIO, GDAL, GLPK, TECHNICAL LEAD.**
 
 I worked in a Kickstarter called Weelo. I was the main iOS developer and I was responsible for
 developing a chat app from scratch using Objective-C and the XMPP Protocol in Apple's
-Development Platform (Xcode). I worked with many frameworks to bring to the app a lot of features
+Development Platform (Xcode). I worked with many frameworks to give the app a lot of features
 like Google maps localization, Facebook login for news users, customized XMPP Protocol and
 Asynchronous Programming to upload images to Amazon S3 service.
 
@@ -75,9 +70,9 @@ OSX, NETWORK, XMPP PROTOCOL, AMAZON SDK, GOOGLE MAPS SDK, FACEBOOK SDK.**
 #### SOFTWARE ENGINEER FOR FUJITEC
 2012
 
-I worked with the Python programming language and the Django framework. I worked in a team to
-creating a financial web software. I created web services capable of reading local databases and
-response queries. I also used CrediCard API to make financial transactions.
+I worked with Python programming language and Django framework. I worked in a team to
+creating a financial web software. I created web services for reading local databases and
+response queries. I also helped to create a CrediCard API to make financial transactions.
 
 **SKILLS: SOFTWARE AND SYSTEM ARCHITECTURE, GIT, SVN, LINUX, PYTHON, DJANGO, WEB
 DEVELOPMENT, VISA/MASTERCARD API.**
@@ -85,8 +80,8 @@ DEVELOPMENT, VISA/MASTERCARD API.**
 #### SOFTWARE ENGINEER FOR STATE UNIVERSITY OF CEARA (UECE)
 2011-2012
 
-I worked with the Ruby and the Racket Framework. In this project, I was responsible for creating
-Network packets to be used in automatic network switch tests. I was also responsible for making
+I worked with Ruby and the Racket Framework. In this project, I was responsible for creating
+network packets to be used in automatic network switch tests. I was also responsible for making
 some improvements to the Ruby Garbage Collector using C language.
 
 **SKILLS: SOFTWARE AND SYSTEM ARCHITECTURE, GIT, RUBY, C, LINUX, NETWORK, RUBY
@@ -96,10 +91,10 @@ GARBAGE COLLECTOR, OSPF, BGP, MPLS, RSVP.**
 #### MASTER'S DEGREE IN COMPUTER SCIENCE (STATE UNIVERSITY OF CEARA, FORTALEZA, BRAZIL)
 2010-2012
 
-My master's degree was mainly focused in Computer Networks. The field of study was related with
+My master's degree mainly focused in Computer Networks. The field of study was related with
 Vehicular Ad Hoc Networks (VANET), Delay Tolerant Networks (DTN) and Fuzzy Logic. In my
 thesis, I created a new VANET/DTN Network protocol using Fuzzy Logic on Network Simulator 3
-(C++). I got good experimental results, as you can see on this paper AICT 2013 (https://goo.gl/iLUs4x)
+(C++). I got good experimental results as you can see on this paper AICT 2013 (https://goo.gl/iLUs4x)
 
 **SKILLS: GIT, C++, SUMO, NETWORK SIMULATOR 3, LINUX, AWK, GNUPLOT, VANET, DTN,
 NETWORK.**
@@ -107,11 +102,11 @@ NETWORK.**
 #### BACHELOR'S DEGREE IN COMPUTER SCIENCE (STATE UNIVERSITY OF CEARA, FORTALEZA, BRAZIL)
 2005-2009
 
-I began to work with network R&D since my second period at the University. I worked with MPLS
-Diffserv, GMPLS and VANET. I participated in a research project responsible for creating protection
+I began to work with network R&D in the second semester of my first year at University. I worked with MPLS
+Diffserv, GMPLS and VANET. I was in a research project for creating protection
 schemes on dense optical networks using metaheuristics (Genetic Algorithm). My thesis was
 related to Vehicular Ad Hoc Networks where I created a Driver Assistance System using Network
-Simulator 2, as you can see at https://goo.gl/iLUs4x.
+Simulator 2 as you can see at https://goo.gl/iLUs4x.
 
 **SKILLS: MPLS, GMPLS, LINUX, AWK, VANET, NETWORK SIMULATOR 2, GNU PLOT, NETWORK**
 
