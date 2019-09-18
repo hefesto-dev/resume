@@ -20,6 +20,9 @@ When I was at university I acquired experience in Research and Development, and 
 - HTML5
 - CSS3
 - Javascript
+- Windows
+- Linux
+- OS X
 
 ### Professional Work Experience
 #### COMPUTER SCIENCE PROFESSOR, FEDERAL INSTITUTE OF EDUCATION, SCIENCE AND TECHNOLOGY OF CEARA
