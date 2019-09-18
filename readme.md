@@ -12,7 +12,7 @@ When I was at university I acquired experience in Research and Development, and 
 - C++17
 - Qt5 
 - Git
-- Haskell 
+- wxWidgets
 - C 
 - Python 
 - Bash 
@@ -29,7 +29,7 @@ When I was at university I acquired experience in Research and Development, and 
 1. Programming Logic
 2. Applied Informatic
 3. Computer Architecture
-4. Operational System Management 
+4. Operating System Management 
 
 #### SENIOR SOFTWARE ENGINEER, TECHNICAL LEAD FOR FUNCEME (WWW.FUNCEME.BR),
 2014-2019
